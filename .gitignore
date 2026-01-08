@@ -1,2 +1,4 @@
 *.md
 *.pptx
+
+!README.md
